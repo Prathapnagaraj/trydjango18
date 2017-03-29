@@ -1,0 +1,13 @@
+To create django project
+    django-admin.exe startproject trydjango
+To run server
+    python manage.py runserver
+To create database
+    ptyhon manage.py creasuperuser
+   # enter ur username and password , email
+   # run server and open http://127.0.0.1:8000/admin/ page login with same credential
+To make database migrations
+    python manage.py makemigrations
+    python manage.py migrate
+
+
